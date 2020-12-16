@@ -5,5 +5,10 @@
   },
   "devDependencies": {
     "vuepress": "^1.7.1"
+  },
+  "dependencies": {
+    "ant-design-vue": "^1.7.2",
+    "async-validator": "1.11.5",
+    "core-js": "^2.6.5"
   }
 }
