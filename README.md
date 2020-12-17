@@ -2,6 +2,8 @@
 
 [使用Ant Design Vue 作为示例](https://www.antdv.com/docs/vue/introduce-cn/)
 
+
+[点击预览](https://tangtangjia.github.io/VuePress-doc/)
 #### 预期效果
 - 开箱即用
 - 包含多种常用功能
