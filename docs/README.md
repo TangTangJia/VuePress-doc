@@ -1,9 +1,9 @@
 ---
 home: true
-heroText: Hero 标题
-tagline: Hero 副标题
-actionText: 快速上手 →
-actionLink: /guide/
+heroText: VuePress-doc
+tagline: 使用VuePress搭建的UI组件库文档
+actionText: 查看示例 →
+actionLink: /guide
 features:
 - title: 简洁至上
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
