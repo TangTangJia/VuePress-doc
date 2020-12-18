@@ -23,6 +23,13 @@
 ```
 :::
 
+### API
+| 属性        | 说明           | 类型  | 默认值    |
+|------------- |-------------| -----| ------- |
+| shape     | 设置按钮形状 | circle 、round |     -    |
+| ghost      | 幽灵属性，使按钮背景透明      |   boolean |     false    |
+| onClick | 点击按钮时的回调     |    (event) => void |     -    |
+
 ## Switch 开关
 <br/>
 <a-switch default-checked  />
@@ -31,7 +38,7 @@
 ```html
 <template>
   <div>
-    <a-switch default-checked/>
+    <a-switch default-checked @change="onChange"/>
   </div>
 </template>
 ```
